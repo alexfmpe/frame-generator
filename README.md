@@ -3,7 +3,7 @@
 ## Create beautiful frames using patterns with this app
 
 Features
-1. Interactice editing of Frame foreground
+1. Interactive editing of Frame foreground
 
   The user can edit the appearance of this frame by altering these parameters
 
